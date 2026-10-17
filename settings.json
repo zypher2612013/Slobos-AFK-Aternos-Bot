@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CHILL_SMP-S1.aternos.me",
-    "port": 42002,
+    "ip": "chillsmps1.mcsh.gg",
+    "port": 19132,
     "version": "1.21.1",
     "try-creative": false
   },
